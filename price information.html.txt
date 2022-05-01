@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<head><title>Price Information</title></head>
+<body>
+<header>
+
+</header>
+<hr>
+<nav>
+<table cellspacing="5" cellpadding="5">
+<tr>
+<td><a href="website.html">Home</a></td>
+<td><a href="notebooks.html">Notebooks</a></td>
+<td><a href="books.html">Books</a></td>
+<td><a href="price information.html">Price Information</a></td>
+</tr>
+<table>
+</nav>
+</body>
